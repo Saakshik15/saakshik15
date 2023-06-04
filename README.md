@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **saakshik15@gmail.com**
 
-- 📄 Know about my experiences [http://lnkiy.in/resume-here](http://lnkiy.in/resume-here)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saakshikobarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saakshikobarne" height="30" width="40" /></a>
